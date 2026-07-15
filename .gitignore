@@ -1,0 +1,31 @@
+﻿# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+config.local.toml
+config.*.local.toml
+*.secret.toml
+*.secrets.toml
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Runtime data, user images and backups
+data/
+identity/
+config_backups/
+runtime/
+temp/
+*.log
+
+# Internal planning notes (not part of the public plugin distribution)
+.superpowers/
+docs/superpowers/

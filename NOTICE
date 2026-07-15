@@ -1,0 +1,12 @@
+MaiBot Context Image
+Copyright 2026 MaiBot Context Image Contributors
+
+This project is licensed under the Apache License, Version 2.0.
+
+Design references:
+- OAImage by A-Dawn, Apache-2.0: https://github.com/A-Dawn/OAImage
+- image-api by harrylarryxyz, MIT: https://github.com/harrylarryxyz/image-api
+
+This implementation was written independently. No source files from either
+reference project are bundled in this distribution.
+
