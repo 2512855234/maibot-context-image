@@ -1,4 +1,4 @@
-﻿import base64
+import base64
 import json
 from types import SimpleNamespace
 from unittest import IsolatedAsyncioTestCase, TestCase

@@ -1,4 +1,4 @@
-﻿"""Strongly typed plugin configuration with MaiBot WebUI metadata."""
+"""Strongly typed plugin configuration with MaiBot WebUI metadata."""
 
 from __future__ import annotations
 

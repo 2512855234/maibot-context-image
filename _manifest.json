@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "id": "com.maibot.context-image",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "name": "MaiBot Context Image",
   "description": "基于聊天上下文、固定人物身份参考图和 GPT Image 的智能生图插件。",
   "author": {

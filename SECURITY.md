@@ -1,4 +1,4 @@
-﻿# Security policy
+# Security policy
 
 ## 不要提交敏感信息
 

@@ -1,4 +1,4 @@
-﻿# MaiBot Context Image
+# MaiBot Context Image
 
 MaiBot 私聊智能生图插件。根据聊天上下文生成图片，并可使用固定人物参考照保持 Bot 形象一致。默认提示词偏向真实、自然的日常手机拍照效果。
 
